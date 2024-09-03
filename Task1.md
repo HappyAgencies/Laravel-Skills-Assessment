@@ -1,8 +1,8 @@
-# Task 1: Setup a Laravel Project
+# Task 1: Setup a Laravel Project for a Bookstore
 
 ## Objective
 
-The goal of this task is to set up a new Laravel project and ensure that your development environment is correctly configured.
+The goal of this task is to set up a new Laravel project that will be used to build a bookstore application. This task will ensure that your development environment is correctly configured.
 
 ## Instructions
 
@@ -11,7 +11,7 @@ The goal of this task is to set up a new Laravel project and ensure that your de
    - Verify the installation to ensure Laravel is properly installed.
 
 2. **Create a New Laravel Project:**
-   - Create a new Laravel project named `laravel-skills-assessment`.
+   - Create a new Laravel project named `bookstore`.
 
 3. **Set Up Environment Variables:**
    - Navigate to your project directory.
@@ -23,27 +23,26 @@ The goal of this task is to set up a new Laravel project and ensure that your de
    - Create a new database for the project in your database management tool.
 
 5. **Run Migrations:**
-   - Run the default Laravel migrations to set up the initial database structure.
+   - Run the default Laravel migrations to set up the initial database structure for the bookstore application.
 
 6. **Serve the Application:**
    - Start the Laravel development server.
-   - Visit the local URL to ensure the application is running.
+   - Visit the local URL to ensure the application is running and displays the default Laravel welcome page.
 
 7. **Commit Your Work:**
    - Initialize a Git repository in your project directory.
-   - Add all files to the repository.
-   - Commit your changes with a meaningful commit message.
+   - Add all files to the repository and commit your changes with a meaningful commit message.
 
-8. **Push to GitHub (Optional):**
+8. **(Optional) Push to GitHub:**
    - If working remotely, you may push your work to a private GitHub repository.
    - Ensure the repository is set to private and that access is granted to the evaluators.
    - If you prefer not to push to GitHub, ensure your local repository is properly set up with commits after each task.
 
 ## Deliverables
 
-- Ensure the Laravel project is correctly set up and can be run locally.
-- Commit your work at the end of this task.
-- If applicable, push the project to your GitHub repository and ensure it is private with access granted to the evaluators.
+- A new Laravel project named `bookstore` that is correctly set up and can be run locally.
+- Commit your work at the end of this task with a meaningful commit message.
+- (Optional) Push the project to your GitHub repository and ensure it is private with access granted to the evaluators.
 - Include any notes or additional setup instructions in your `README.md`.
 
 Once you've completed this task, you're ready to move on to Task 2!
