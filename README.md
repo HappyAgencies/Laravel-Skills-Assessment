@@ -1,6 +1,6 @@
-# Laravel Skills Assessment
+# Laravel Skills Assessment: Bookstore Application
 
-Welcome to the Laravel Skills Assessment! This assessment is designed to evaluate your skills and knowledge in Laravel. The tasks are organized from easiest to hardest. Please complete the tasks below and submit your code as a GitHub repository.
+Welcome to the Laravel Skills Assessment! This assessment is designed to evaluate your skills and knowledge in Laravel by building a bookstore application. The tasks are organized from easiest to hardest. Please complete the tasks below and submit your code as a GitHub repository.
 
 ## Instructions
 
@@ -14,21 +14,21 @@ Welcome to the Laravel Skills Assessment! This assessment is designed to evaluat
 
 ## Tasks Overview
 
-### Task 1: Setup a Laravel Project
+### Task 1: Setup a Laravel Project for a Bookstore
 
-Create a new Laravel project and set up the environment.
+Create a new Laravel project and set up the environment for a bookstore application.
 
 [Detailed Task 1 Instructions](./Task1.md)
 
-### Task 2: Create a Basic CRUD Application
+### Task 2: Create a Basic CRUD Application for Books
 
-Develop a simple CRUD (Create, Read, Update, Delete) application to manage a list of items (e.g., blog posts, tasks, etc.).
+Develop a simple CRUD (Create, Read, Update, Delete) application to manage a list of books in the bookstore.
 
 [Detailed Task 2 Instructions](./Task2.md)
 
 ### Task 3: Implement User Authentication
 
-Implement user authentication using Laravel’s built-in authentication system.
+Implement user authentication using Laravel’s built-in authentication system to allow users to manage books.
 
 [Detailed Task 3 Instructions](./Task3.md)
 
@@ -38,21 +38,21 @@ Create custom middleware to restrict access to certain routes based on user role
 
 [Detailed Task 4 Instructions](./Task4.md)
 
-### Task 5: Develop a RESTful API
+### Task 5: Develop a RESTful API for Books
 
-Develop a RESTful API for your CRUD application, allowing for API-based interactions with the items.
+Develop a RESTful API for your bookstore application, allowing for API-based interactions with the books.
 
 [Detailed Task 5 Instructions](./Task5.md)
 
 ### Task 6: Implement Queues and Jobs
 
-Set up a Laravel queue system and create a job that processes a task asynchronously (e.g., sending an email notification).
+Set up a Laravel queue system and create a job that processes a task asynchronously (e.g., sending a notification when a new book is added).
 
 [Detailed Task 6 Instructions](./Task6.md)
 
 ### Task 7: Write Unit and Feature Tests
 
-Write unit and feature tests to ensure the correctness and reliability of your application.
+Write unit and feature tests to ensure the correctness and reliability of your bookstore application.
 
 [Detailed Task 7 Instructions](./Task7.md)
 
