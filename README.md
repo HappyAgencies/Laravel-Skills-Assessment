@@ -6,9 +6,11 @@ Welcome to the Laravel Skills Assessment! This assessment is designed to evaluat
 
 1. **Fork this repository** to your GitHub account.
 2. Complete the tasks outlined below, each in its own file or directory as appropriate.
-3. Push your code to your forked repository.
-4. Submit a pull request to this repository with your completed assessment.
-5. Include a README file with any additional notes or instructions on how to set up and run your code.
+3. Commit your work at the end of each task with a meaningful commit message.
+4. (Optional) Push your code to your forked repository. If you choose to do this, make sure your repository is private and that the evaluators have access.
+5. Submit a pull request to this repository with your completed assessment.
+6. Include a README file with any additional notes or instructions on how to set up and run your code.
+7. **Note:** You are allowed to use Google and any other tools to complete the tasks, except for ChatGPT or any similar AI tools.
 
 ## Tasks Overview
 
@@ -56,7 +58,7 @@ Write unit and feature tests to ensure the correctness and reliability of your a
 
 ## Submission
 
-Once you have completed the tasks, push your code to your forked repository and submit a pull request to this repository with your completed assessment. Please include a README file with any additional notes or instructions on how to set up and run your code.
+Once you have completed the tasks, commit your work and (optionally) push your code to your GitHub repository. If you push your code, ensure the repository is private and accessible to the evaluators. Then, submit a pull request to this repository with your completed assessment. Please include a README file with any additional notes or instructions on how to set up and run your code.
 
 ## Evaluation
 
