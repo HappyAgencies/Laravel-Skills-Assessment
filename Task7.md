@@ -38,4 +38,4 @@ The goal of this task is to write unit and feature tests for the bookstore appli
 - Commit your work with a meaningful commit message.
 - (Optional) Push your code to a private GitHub repository with access granted to the evaluators.
 
-Once you've completed this task, your bookstore application should be fully tested and ready for submission!
+Once you've completed this task, you're ready to move on to Task 8!
